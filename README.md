@@ -1,0 +1,3 @@
+# MusicApp
+I used React js to create this Music app.
+Its basic functionalities are to play songs from a library, move forward and backward, increase and decrease volume, play and pause, rotating song image cover...
